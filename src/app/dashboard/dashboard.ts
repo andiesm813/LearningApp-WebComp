@@ -57,7 +57,7 @@ export default class Dashboard extends LitElement {
     }
     .card {
       height: max-content;
-      max-width: 280px;
+      max-width: 300px;
       flex-grow: 1;
       flex-basis: 0;
     }
